@@ -1,1 +1,5 @@
 = Sample Vert.x app to run as an app
+
+mvnw package
+
+java -jar ./target\vertx-1.0-SNAPSHOT-app.jar
